@@ -1,16 +1,12 @@
 ### Description (why this change is needed)
 
-### Jira / Wiki / Figma links
+### Code coverage report screenshot (for Redux/blocs/cubit the code coverage should be over 90% and widget/screens over 70%)
 
-### Code coverage report screenshot (for blocs/cubit the code coverage should be over 90% and widget/screens over 70%)
-
-### Screenshot (in case of UI changes )
+### Web screenshot
 
 ### iOS screenshot
 
 ### Android screenshot
-
-### Web screenshot
 
 ### Merge checklist (for final PR for ticket)
 

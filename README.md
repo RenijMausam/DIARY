@@ -1,6 +1,6 @@
 # DIARY
 
-This is the sample application Diary of both web and mobile
+This is the sample application Diary of both web and mobile.
 
 # Martin Pulgar Construction Mobile App Test
 

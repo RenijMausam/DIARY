@@ -1,0 +1,114 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# These are backup files created by flutter packages.
+*.dart.backup
+
+# Generated files that shouldn't be versioned.
+*.generated.dart
+.pub-cache/
+.buildlog/
+.idea/
+.vscode/
+
+# Web related
+lib/generated_plugin_registrant.dart
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+ios/fastlane/output
+ios/fastlane/report.xml
+ios/build/
+
+# Node.js
+## Node.js specific
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Optional npm cache directory
+.npm
+# Optional eslint cache
+.eslintcache
+# Dependency directories
+/node_modules
+# Testing
+/coverage
+# Production build
+/build
+# Logs
+/logs
+# Runtime data
+/pids
+*.pid
+# System
+.DS_Store
+Thumbs.db
+
+# React.js
+## React.js specific
+/.cache/
+/public/
+/build/
+/node_modules/
+
+# IntelliJ IDEA
+## IntelliJ IDEA specific
+.idea/
+*.iml
+*.iws
+*.ipr
+/.idea/
+
+# Visual Studio Code
+## Visual Studio Code specific
+.vscode/
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# Coverage report related
+/coverage/
+/test/coverage_helper_test.dart
+

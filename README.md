@@ -26,7 +26,7 @@ Martin Pulgar Construction is a fictitious construction company. They have appro
 
 ### Screen Designs
 
-<img src="https://github.com/mausamRayamajhi/DIARY/raw/main/assets/28975010/09ac8c32-e409-4f49-8219-e879051febbf/image.jpg" alt="Image Description">
+<img src="https://github.com/mausamRayamajhi/DIARY/assets/28975010/09ac8c32-e409-4f49-8219-e879051febbf" alt="Image Description">
 
 ## Web Service
 

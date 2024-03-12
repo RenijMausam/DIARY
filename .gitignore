@@ -23,21 +23,21 @@
 # Flutter/Dart/Pub related
 **/doc/api/
 **/ios/Flutter/.last_build_id
-.dart_tool/
-.flutter-plugins
-.flutter-plugins-dependencies
-.packages
-.pub-cache/
-.pub/
-/build/
+mobile/.dart_tool/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/.packages
+mobile/.pub-cache/
+mobile/.pub/
+mobile/build/
 
 # These are backup files created by flutter packages.
 *.dart.backup
 
 # Generated files that shouldn't be versioned.
 *.generated.dart
-.pub-cache/
-.buildlog/
+mobile/.pub-cache/
+mobile/.buildlog/
 .idea/
 .vscode/
 
@@ -112,3 +112,14 @@ build
 /coverage/
 /test/coverage_helper_test.dart
 
+/mobile/macos/Flutter/ephemeral/Flutter-Generated.xcconfig
+/mobile/ios/Flutter/flutter_export_environment.sh
+/mobile/macos/Flutter/ephemeral/flutter_export_environment.sh
+/mobile/ios/Flutter/Generated.xcconfig
+/mobile/ios/Runner/GeneratedPluginRegistrant.h
+/mobile/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+/mobile/ios/Runner/GeneratedPluginRegistrant.m
+/mobile/android/gradle/wrapper/gradle-wrapper.jar
+/mobile/android/gradlew
+/mobile/android/gradlew.bat
+/mobile/android/local.properties

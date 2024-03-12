@@ -1,7 +1,7 @@
 # DIARY
 
 This is the sample application Diary of both web and mobile
-
+ss
 # Martin Pulgar Construction Mobile App Test
 
 This test is a take-home 23-hour test with an estimated 3 hours of work. The test will be sent to you at a certain time, and then the code will need to be returned via email 24 hours later.

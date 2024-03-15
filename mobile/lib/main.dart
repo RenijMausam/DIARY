@@ -4,6 +4,7 @@ import 'package:mobile/features/diary/screens/diary_screen.dart';
 import 'package:mobile/generated/l10n.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
   runApp(const MyApp());
 }
 
@@ -14,8 +15,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData(
-        backgroundColor: const Color(0x00F1F5F7),
-        primarySwatch: Colors.blue,
+        colorScheme: ColorScheme.fromSwatch().copyWith(background: const Color(0x00F1F5F7)),
       ),
       home: const NewDiaryScreen(),
       localizationsDelegates: const [

@@ -1,6 +1,15 @@
 {
   "@@locale": "en",
   "new_diary": "New Diary",
+  "z": "zell",
   "location": "20041075 | TAP-NS TAP-North Strathfield",
-  "add_site_to_diary": "Add to site diary"
+  "add_site_to_diary": "Add to site diary",
+  "ass_photo_to_site_diary": "Add Photos to site diary",
+  "add_photo": "Add a photo",
+  "include_in_photo_gallery": "Include in photo gallery",
+  "comments": "Comments",
+  "details": "Details",
+  "select_area": "Select Area",
+  "task_category": "Task Category",
+  "tags": "Tags"
 }

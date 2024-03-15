@@ -22,10 +22,21 @@ class MessageLookup extends MessageLookupByLibrary {
 
   final messages = _notInlinedMessages(_notInlinedMessages);
   static Map<String, Function> _notInlinedMessages(_) => <String, Function>{
+        "add_photo": MessageLookupByLibrary.simpleMessage("Add a photo"),
         "add_site_to_diary":
             MessageLookupByLibrary.simpleMessage("Add to site diary"),
+        "ass_photo_to_site_diary":
+            MessageLookupByLibrary.simpleMessage("Add Photos to site diary"),
+        "comments": MessageLookupByLibrary.simpleMessage("Comments"),
+        "details": MessageLookupByLibrary.simpleMessage("Details"),
+        "include_in_photo_gallery":
+            MessageLookupByLibrary.simpleMessage("Include in photo gallery"),
         "location": MessageLookupByLibrary.simpleMessage(
             "20041075 | TAP-NS TAP-North Strathfield"),
-        "new_diary": MessageLookupByLibrary.simpleMessage("New Diary")
+        "new_diary": MessageLookupByLibrary.simpleMessage("New Diary"),
+        "select_area": MessageLookupByLibrary.simpleMessage("Select Area"),
+        "tags": MessageLookupByLibrary.simpleMessage("Tags"),
+        "task_category": MessageLookupByLibrary.simpleMessage("Task Category"),
+        "z": MessageLookupByLibrary.simpleMessage("zell")
       };
 }

@@ -60,6 +60,16 @@ class S {
     );
   }
 
+  /// `zell`
+  String get z {
+    return Intl.message(
+      'zell',
+      name: 'z',
+      desc: '',
+      args: [],
+    );
+  }
+
   /// `20041075 | TAP-NS TAP-North Strathfield`
   String get location {
     return Intl.message(
@@ -75,6 +85,86 @@ class S {
     return Intl.message(
       'Add to site diary',
       name: 'add_site_to_diary',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Add Photos to site diary`
+  String get ass_photo_to_site_diary {
+    return Intl.message(
+      'Add Photos to site diary',
+      name: 'ass_photo_to_site_diary',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Add a photo`
+  String get add_photo {
+    return Intl.message(
+      'Add a photo',
+      name: 'add_photo',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Include in photo gallery`
+  String get include_in_photo_gallery {
+    return Intl.message(
+      'Include in photo gallery',
+      name: 'include_in_photo_gallery',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Comments`
+  String get comments {
+    return Intl.message(
+      'Comments',
+      name: 'comments',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Details`
+  String get details {
+    return Intl.message(
+      'Details',
+      name: 'details',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Select Area`
+  String get select_area {
+    return Intl.message(
+      'Select Area',
+      name: 'select_area',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Task Category`
+  String get task_category {
+    return Intl.message(
+      'Task Category',
+      name: 'task_category',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Tags`
+  String get tags {
+    return Intl.message(
+      'Tags',
+      name: 'tags',
       desc: '',
       args: [],
     );
